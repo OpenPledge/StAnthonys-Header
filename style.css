@@ -1,0 +1,15 @@
+.vCurbside-header {
+  background-image: url('Virtual_Curbside.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 48px 20px;
+}
+
+.vCurbside-header-text {
+  font-family: Oswald;
+  color: white;
+  font-size: 32px;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  padding: ;
+}
