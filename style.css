@@ -1,22 +1,17 @@
-body, html {
-  height: 100%;
-}
-
 .vCurbside-header {
   background-image: url('Virtual_Curbside.png');
-  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 30%;
+  height: 407px;
+  width: 1080px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .vCurbside-header-text {
   font-family: Oswald;
   color: white;
-  font-size: 22px;
   text-transform: uppercase;
-
+  font-size: 22px;
 }
